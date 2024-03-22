@@ -1,0 +1,16 @@
+.jumbotron {
+  margin: 15px 30px 15px 30px;
+  border-radius: 10px;
+  background:
+    linear-gradient(rgba(0, 0, 250, 0.25),
+      rgba(125, 250, 250, 0.45)),
+    url('../public/img/jumbotron.png'), center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white !important;
+  height: 340px;
+}
+
+.card-img-top {
+  object-fit: contain;
+}
