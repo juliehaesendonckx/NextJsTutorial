@@ -1,0 +1,68 @@
+{
+    "badges" : [
+        { 
+            "name" : "Boulder Badge",
+            "color" : "Gray Badge",
+            "description" : "It is a simple gray octagon.",
+            "gym" : "Pewter City Gym",
+            "leader" : "Brock",
+            "city" : "Pewter City"
+        },
+        { 
+            "name" : "Cascade Badge",
+            "color" : "Blue Badge",
+            "description" : "It is in the shape of a light blue raindrop.",
+            "gym" : "Cerulean City Gym",
+            "leader" : "Misty",
+            "city" : "Cerulean City"
+        },
+        { 
+            "name" : "Thunder Badge",
+            "color" : "Orange Badge",
+            "description" : "It is in the shape of an eight-pointed gold star with an orange octagon in the center.",
+            "gym" : "Vermilion City Gym",
+            "leader" : "Lt. Surge",
+            "city" : "Vermilion City"
+        },
+        { 
+            "name" : "Rainbow Badge",
+            "color" : "Rainbow Badge",
+            "description" : "It is shaped like a flower, showing grass, with rainbow colored petals.",
+            "gym" : "Celadon City Gym",
+            "leader" : "Erika",
+            "city" : "Celadon City"
+        },
+        { 
+            "name" : "Soul Badge",
+            "color" : "Pink Badge",
+            "description" : "It is in the shape of a fuchsia heart.",
+            "gym" : "Fuchsia City Gym",
+            "leader" : "Koga",
+            "city" : "Fuchsia City"
+        },
+        { 
+            "name" : "Marsh Badge",
+            "color" : "Gold Badge",
+            "description" : "It is two concentric golden circles.",
+            "gym" : "Saffron City Gym",
+            "leader" : "Sabrina",
+            "city" : "Saffron City"
+        },
+        { 
+            "name" : "Volcano Badge",
+            "color" : "Crimson Badge",
+            "description" : "It is red and shaped like a flame with a small pink diamond in the center.",
+            "gym" : "Seafoam Islands Gym",
+            "leader" : "Blaine",
+            "city" : "Seafoam Islands"
+        },
+        { 
+            "name" : "Earth Badge",
+            "color" : "Green Badge",
+            "description" : "It is shaped like a plant, most likely a Sakaki tree, which is where Giovanni's Japanese name comes from.",
+            "gym" : "Viridian City Gym",
+            "leader" : "Giovanni",
+            "city" : "Viridian City"
+        }
+    ]
+}
